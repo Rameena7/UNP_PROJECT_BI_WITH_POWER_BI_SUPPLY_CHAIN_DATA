@@ -4,13 +4,13 @@ Completed this project as part of my BI with PowerBI course with United Network 
 
 Key Highlights:
 
-The Power BI supply chain data report provides an analysis of sales, profit, customer distribution and delivery performance.
+1. The Power BI supply chain data report provides an analysis of sales, profit, customer distribution and delivery performance.
 
-Consumer segments leads in sales, with fishing gear and cleats being the most profitable categories.
+2. Consumer segments leads in sales, with fishing gear and cleats being the most profitable categories.
 
-The U.S. and Puerto Rico show the highest sales per customer and Europe dominates totale sales and profitability.
+3. The U.S. and Puerto Rico show the highest sales per customer and Europe dominates totale sales and profitability.
 
-Recommendations focus on targeted marketing, improving logistics and revitalizing underperforming categories.
+4. Recommendations focus on targeted marketing, improving logistics and revitalizing underperforming categories.
 
 PBIX FILE: https://drive.google.com/file/d/1LGP-1EE_Or_PqlUohNVhOS0Zlycgn4_o/view?usp=sharing
 
